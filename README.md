@@ -21,7 +21,7 @@ and customized, plus a unit test project for it.
 
 ### Source Code
 
-https://github.com/KriaSoft/AspNet
+https://identity.codeplex.com
 
 ### Discussion
 
